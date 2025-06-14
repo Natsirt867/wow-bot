@@ -1,0 +1,11 @@
+*.obj
+*.dll
+*.exp
+*.pdb
+*.txt
+*.lib
+*.exe
+*.a
+./logs
+Minhook/
+.idea/
